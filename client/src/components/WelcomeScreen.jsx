@@ -29,7 +29,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   };
 
   const currentColors = colors[theme] || colors.dark;
-  const portfolioUrl = "www.soniyafaroda.in";
+  const portfolioUrl = "www.soniyafaroda.vercel.app";
   const welcomeMessages = [
     "Creative Problem Solver",
     "Software Engineer",
